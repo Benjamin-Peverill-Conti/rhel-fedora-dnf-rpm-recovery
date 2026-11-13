@@ -1,0 +1,37 @@
+Transaction ID : 16
+Begin time     : 2026-11-09 19:03:15
+Begin rpmdb    : 61e3f7f04de126e8472fff267402b9a224b9c4d96dc24995fcf066074d1df76e
+End time       : 2026-11-09 19:03:17
+End rpmdb      : 2bf931cd849d57f5256cd808092a42bb70350acf2816424f8a23260534ceec04
+User           : 1000 <ADMIN_USER> <<ADMIN_USER>>
+Status         : Ok
+Releasever     : 44
+Description    : 
+Comment        : 
+Packages altered:
+  Action   Package                                          Reason          Repository
+  Install  firefox-0:158.0.1-2.fc44.x86_64                  User            nobara
+  Install  plasma-browser-integration-0:6.7.5-1.fc44.x86_64 Weak Dependency nobara
+  Install  speech-dispatcher-utils-0:0.12.1-6.fc44.x86_64   Weak Dependency nobara
+  Install  firefox-langpacks-0:158.0.1-2.fc44.x86_64        Weak Dependency nobara
+  Upgrade  nss-0:3.131.0-1.fc44.x86_64                      Dependency      nobara
+  Upgrade  nss-softokn-0:3.131.0-1.fc44.x86_64              Dependency      nobara
+  Upgrade  nss-util-0:3.131.0-1.fc44.x86_64                 Dependency      nobara
+  Upgrade  nss-softokn-freebl-0:3.131.0-1.fc44.x86_64       Dependency      nobara
+  Upgrade  nss-tools-0:3.131.0-1.fc44.x86_64                Dependency      nobara
+  Upgrade  nss-sysinit-0:3.131.0-1.fc44.x86_64              Dependency      nobara
+  Upgrade  nss-0:3.131.0-1.fc44.i686                        Dependency      nobara
+  Upgrade  nss-softokn-0:3.131.0-1.fc44.i686                Dependency      nobara
+  Upgrade  nss-util-0:3.131.0-1.fc44.i686                   Dependency      nobara
+  Upgrade  nss-softokn-freebl-0:3.131.0-1.fc44.i686         Dependency      nobara
+  Replaced nss-0:3.125.0-1.fc44.x86_64                      Dependency      @System
+  Replaced nss-0:3.125.0-1.fc44.i686                        Dependency      @System
+  Replaced nss-softokn-0:3.125.0-1.fc44.x86_64              Dependency      @System
+  Replaced nss-softokn-0:3.125.0-1.fc44.i686                Dependency      @System
+  Replaced nss-softokn-freebl-0:3.125.0-1.fc44.x86_64       Dependency      @System
+  Replaced nss-softokn-freebl-0:3.125.0-1.fc44.i686         Dependency      @System
+  Replaced nss-sysinit-0:3.125.0-1.fc44.x86_64              Dependency      @System
+  Replaced nss-tools-0:3.125.0-1.fc44.x86_64                Dependency      @System
+  Replaced nss-util-0:3.125.0-1.fc44.x86_64                 Dependency      @System
+  Replaced nss-util-0:3.125.0-1.fc44.i686                   Dependency      @System
+

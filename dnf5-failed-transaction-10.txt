@@ -1,0 +1,18 @@
+Transaction ID : 10
+Begin time     : 2026-08-05 20:05:04
+Begin rpmdb    : 27c446f7d634594cbec692f0977d1558a34081d562c06f806e9b96eb5a11db64
+End time       : 2026-08-05 20:05:05
+End rpmdb      : ea190d0cef20b2212ae060a0065906576a7c4ee9bc7802cebe465a07d6dc7433
+User           : 0 Super User <root>
+Status         : Error
+Releasever     : 44
+Description    : 
+Comment        : 
+Packages altered:
+  Action  Package                            Reason     Repository
+  Install snapd-0:2.76-1.fc44.x86_64         User       nobara-updates
+  Install snapd-service-0:2.76-1.fc44.x86_64 Dependency nobara-updates
+  Install snap-confine-0:2.76-1.fc44.x86_64  Dependency nobara-updates
+  Install xdelta-0:3.1.0-24.fc44.x86_64      Dependency nobara
+  Install snapd-store-0:2.76-1.fc44.x86_64   Dependency nobara-updates
+
